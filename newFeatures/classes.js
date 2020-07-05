@@ -1,7 +1,7 @@
 class Human {
 
     constructor(){
-        this.gender = 'male'
+        this.gender = 'male2'
     }
 
     printGender() {
